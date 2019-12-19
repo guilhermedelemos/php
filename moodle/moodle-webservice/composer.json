@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/guilhermedelemos/moodle-php-sdk"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "moodle-php/moodle-php-sdk": "dev-master"
+    }
+}
